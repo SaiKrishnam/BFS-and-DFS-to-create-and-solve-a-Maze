@@ -16,7 +16,5 @@
     -Valid input of n is 0-7.
     - on clicking the same n you can get randomly new maze's.
 
-Team : 
-W1147251 - Sarang Jaltare
-w1155067-  Saikrishnam Raju Nadimpall
+
 
