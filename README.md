@@ -1,6 +1,6 @@
 BFS-and-DFS-to-create-and-solve-a-Maze
 
-1.List of classes.
+List of classes --->
         1.Graph
         2.Cell
         3.Vertex
